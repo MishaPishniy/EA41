@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chalk": "^6.0.0"
+  },
+  "name": "ea41",
+  "version": "1.0.0",
+  "description": "\"Hello ea 41\"",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MishaPishniy/EA41.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MishaPishniy/EA41/issues"
+  },
+  "homepage": "https://github.com/MishaPishniy/EA41#readme"
+}
